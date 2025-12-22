@@ -20,6 +20,7 @@
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
@@ -1341,4 +1342,5 @@ html {
     select {
         font-size: 16px !important;
     }
+
 }
